@@ -46,9 +46,9 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "swloxTests"
-               BuildableName = "swloxTests"
-               BlueprintName = "swloxTests"
+               BlueprintIdentifier = "swlox_tests"
+               BuildableName = "swlox_tests"
+               BlueprintName = "swlox_tests"
                ReferencedContainer = "container:">
             </BuildableReference>
          </TestableReference>
